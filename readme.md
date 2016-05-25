@@ -5,7 +5,7 @@ Wireless turn on/off large relays that allow a remote user to deactivate or shut
 
 ![Kill switch remote control](https://github.com/sparkfun/Wireless_Kill_Switch/blob/master/Documentation/Kill_Switch_Images-01.jpg)
 
-[*A kill switch remote control*]
+->_*A kill switch remote control*_<-
 
 Repository Contents
 -------------------
@@ -15,7 +15,7 @@ Repository Contents
 
 Documentation
 -------------
-* [How to build a wireless kill switch](https://learn.sparkfun.com/tutorials/how-to-build-a-remote-kill-switch) - Tutorial with more information, including a parts list. 
+* **[How to build a wireless kill switch](https://learn.sparkfun.com/tutorials/how-to-build-a-remote-kill-switch)** - Tutorial with more information, including a parts list. 
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
