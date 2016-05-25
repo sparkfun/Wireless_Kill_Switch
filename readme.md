@@ -5,7 +5,7 @@ Wireless turn on/off large relays that allow a remote user to deactivate or shut
 
 ![Kill switch remote control](https://github.com/sparkfun/Wireless_Kill_Switch/blob/master/Documentation/Kill_Switch_Images-01.jpg)
 
-->_*A kill switch remote control*_<-
+_*A kill switch remote control*_
 
 Repository Contents
 -------------------
