@@ -3,7 +3,8 @@ Wireless Kill Switch
 
 Wireless turn on/off large relays that allow a remote user to deactivate or shut down a thing that may be potentially dangerous (a big power source, motor, etc.).
 
-![Kill switch remote control](https://raw.githubusercontent.com/sparkfun/Wireless_Kill_Switch/master/Kill%20Switch%20Images-01.jpg)
+![Kill switch remote control](https://github.com/sparkfun/Wireless_Kill_Switch/blob/master/Documentation/Kill_Switch_Images-01.jpg)
+
 [*A kill switch remote control*]
 
 Repository Contents
