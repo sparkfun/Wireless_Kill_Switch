@@ -7,6 +7,8 @@
 
  This is the part of the remote kill switch that lives on the car.
 
+ Designed the for Arduino Pro Mini 3.3V / 8MHz (because the RFM69 is 3.3V)
+
  If we receive 'R' (kill) system turns off the relay.
  If we receive 'Y' (pause) from the remote then set pin PAUSE high to signal master
  computer to pause.
@@ -17,7 +19,7 @@
 */
 
 #include <SPI.h>
-#include <RH_RF69.h>
+#include <RH_RF69.h> //From: http://www.airspayce.com/mikem/arduino/RadioHead/s
 #include <SimpleTimer.h> //https://github.com/jfturcot/SimpleTimer
 #include <avr/wdt.h> //We need watch dog for this program
 

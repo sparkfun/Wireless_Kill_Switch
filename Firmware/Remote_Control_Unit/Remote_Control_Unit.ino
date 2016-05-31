@@ -7,6 +7,8 @@
 
  This is the part of the remote kill switch that the user holds in their hand.
 
+ Designed the for Arduino Pro Mini 3.3V / 8MHz (because the RFM69 is 3.3V)
+
  If red button pressed we send 'R' (kill). Turn on red LED.
  If yellow button pressed we send 'Y' (pause). Turn on yellow LED.
  If green button pressed we send 'G' (go). Turn on green LED.
@@ -19,7 +21,7 @@
 */
 
 #include <SPI.h>
-#include <RH_RF69.h>
+#include <RH_RF69.h> //From: http://www.airspayce.com/mikem/arduino/RadioHead/s
 #include <SimpleTimer.h> //https://github.com/jfturcot/SimpleTimer
 #include <avr/wdt.h> //We need watch dog for this program
 

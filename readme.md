@@ -16,6 +16,7 @@ Repository Contents
 Documentation
 -------------
 * **[How to build a wireless kill switch](https://learn.sparkfun.com/tutorials/how-to-build-a-remote-kill-switch)** - Tutorial with more information, including a parts list. 
+* **[Video demonstration of the kill switch](https://www.youtube.com/watch?v=idKhC2QLU6c)** - We blend some margaritas and demo the wireless control
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
